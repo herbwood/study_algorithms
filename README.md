@@ -2,8 +2,6 @@
 
 **알고리즘 공부한 내용 정리**
 
-<br></br>
-
 |Title|Repository|Description|Contents|Reference|
 |:---:|:---:|:---:|:---:|:---:|
 |<img src="https://d2gd6pc034wcta.cloudfront.net/images/logo@2x.png" width="200px">|[baekjoon](https://github.com/herbwood/study_algorithms/tree/master/baekjoon)|백준 온라인 저지  문제 풀이|- 브루트 포스<div>-덱, 큐<div>-그리디 알고리즘<div>-해쉬<div>-재귀<div>-정렬<div>-스택<div>-트리<div>-DFS, BFS|[백준 온라인 저지](https://www.acmicpc.net/)|
